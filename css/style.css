@@ -898,6 +898,7 @@ button[type=submit] {
   align-content: center;
   background-size: cover;
 }
+
 .slider .slider-container .swiper-slide:after {
   content: "";
   width: 100%;
