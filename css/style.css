@@ -2224,7 +2224,15 @@ button[type=submit] {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
-  padding: 135px 0;
+  padding: 50px 0;
+}
+/* downtext */
+.downtext {
+  text-align: center;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 50px 0;
 }
 .press-relases figure {
   width: 100%;
