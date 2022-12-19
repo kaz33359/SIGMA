@@ -737,9 +737,9 @@ button[type=submit] {
   margin-left: 15px;
 }
 .navbar .container .upper-side .phone-email h4 {
-  margin-bottom: -5px;
-  margin-top: 3px;
-  font-size: 17px;
+  margin-bottom: -1px;
+  margin-top: 0px;
+  font-size: 21px;
   font-weight: 600;
   display: -webkit-box;
   line-height: 1;
