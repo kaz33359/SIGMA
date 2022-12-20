@@ -1539,8 +1539,15 @@ button[type=submit] {
   display: inline-block;
   color: #26282b;
   font-weight: 600;
+}.property-plans .content-box a {
+  display: inline-block;
+  color: #26282b;
+  font-weight: 600;
 }
 .property-calculator .content-box a img {
+  height: 46px;
+  margin-right: 10px;
+}.property-plans .content-box a img {
   height: 46px;
   margin-right: 10px;
 }
