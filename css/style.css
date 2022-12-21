@@ -626,7 +626,7 @@ button[type=submit] {
   margin-bottom: 30px;
 }
 .side-navigation figure img {
-  height: 40px;
+  height: 80px;
 }
 .side-navigation address {
   display: block;
@@ -1547,7 +1547,7 @@ button[type=submit] {
 .property-calculator .content-box a img {
   height: 46px;
   margin-right: 10px;
-}.property-plans .content-box a img {
+}.property-plans  .content-box a img {
   height: 46px;
   margin-right: 10px;
 }
